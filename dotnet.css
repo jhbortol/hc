@@ -1,0 +1,10 @@
+:root {
+    
+    --primaryColor: #68217a;
+    --secondaryColor: #f4f4f4;  
+    --bgMenuActive: #8e47a0;
+    --bgButton: #68217a;
+    --logoImageUrl: url("https://image.flaticon.com/icons/png/512/31/31704.png");
+    --bgAside: var(--primaryColor);   
+
+}
